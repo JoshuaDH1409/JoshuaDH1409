@@ -6,18 +6,18 @@ Desarrollador full-stack. Me gusta armar productos web de punta a punta: APIs, U
 
 - **.NET / ASP.NET** (MVC, Web Forms, APIs)
 - **JavaScript / Node** (React, Vite)
-- SQL Server, Docker, integraciones Discord
+- SQL Server, Docker, Discord bots
 
 ## Proyectos
 
-| Proyecto | Qué es |
-|----------|--------|
-| [Reference Hub](https://github.com/JoshuaDH1409/ReferenciaAI-Prototipo) | App de referencias con React + .NET 8 |
-| [PulseBot](https://github.com/JoshuaDH1409/DJ-Yoshi) | Bot de música para Discord (Docker + Lavalink) |
-| [EvalHub](https://github.com/JoshuaDH1409/Sistema-de-Evalauciones) | Evaluaciones de desempeño (ASP.NET MVC) |
-| [ScheduleLab](https://github.com/JoshuaDH1409/GeneradorHorarios) | Importación Excel → SQL Server |
-| [AssessHub](https://github.com/JoshuaDH1409/CheckIT) | Evaluación de candidatos (Web Forms) |
+| Proyecto | Repo | Qué es |
+|----------|------|--------|
+| Reference Hub | [reference-hub](https://github.com/JoshuaDH1409/reference-hub) | Referencias laborales — React + .NET 8 |
+| PulseBot | [pulsebot](https://github.com/JoshuaDH1409/pulsebot) | Música en Discord — Node, Lavalink, Docker |
+| EvalHub | [evalhub](https://github.com/JoshuaDH1409/evalhub) | Evaluaciones de desempeño — ASP.NET MVC |
+| ScheduleLab | [schedulelab](https://github.com/JoshuaDH1409/schedulelab) | Excel → SQL Server — Node |
+| AssessHub | [assesshub](https://github.com/JoshuaDH1409/assesshub) | Exámenes a candidatos — Web Forms |
 
 ## Contacto
 
-GitHub: [JoshuaDH1409](https://github.com/JoshuaDH1409)
+[github.com/JoshuaDH1409](https://github.com/JoshuaDH1409)

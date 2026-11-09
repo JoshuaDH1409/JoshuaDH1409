@@ -18,6 +18,7 @@ Desarrollador full-stack. Me gusta armar productos web de punta a punta: APIs, U
 | ScheduleLab | [schedulelab](https://github.com/JoshuaDH1409/schedulelab) | [Live](https://joshuadh1409.github.io/schedulelab/) | Excel → SQL Server — Node |
 | BookingHub | [booking-hub](https://github.com/JoshuaDH1409/booking-hub) | [Live](https://joshuadh1409.github.io/booking-hub/) | Reservación de espacios con cupo por horario — React + TypeScript |
 | AssessHub | [assesshub](https://github.com/JoshuaDH1409/assesshub) | [Live](https://joshuadh1409.github.io/assesshub/) | Exámenes a candidatos — Web Forms |
+| Faro | [faro](https://github.com/JoshuaDH1409/faro) | [Live](https://metricsflow-jadh.vercel.app) | Portal B2B de métricas y resúmenes ejecutivos — Node / Express |
 
 ## Contacto
 
